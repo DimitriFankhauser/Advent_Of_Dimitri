@@ -1,0 +1,5 @@
+/python/.idea
+/Ideas.txt
+/.idea/
+/python/**/__pycache__/
+*.pyc
