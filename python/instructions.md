@@ -11,6 +11,7 @@ if you installed git, move to your desired project directory and clone this Repo
     git clone https://github.com/DimitriFankhauser/Advent_Of_Dimitri
 
 ## creating a virtual enviroment and activating it
+It is recommended that you create a python virtual environment to store dependencies, versions etc. 
 Move to the project-directory (Advent_Of_Dimitri) and then create a python virtual environment  by running this command: 
 
     python3 -m venv .venv
