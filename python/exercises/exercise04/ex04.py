@@ -6,5 +6,6 @@
 # turn it into this: //*|*\*|**|*
 # nothing special happens if two straight branches are next to each other
 # if there is no straight branch return "No straight branch in this tree"
+# if you don't know the concept of return-types: now is the time to google it and figure out what -> str means
 def main(tree: str)->str:
     return "No straight branch in this tree"
