@@ -20,5 +20,5 @@ The solutions will be created in Golang, because that is the language I want to 
 
 As mentioned before, this is for people who have exams to pass or who would like some brainfood. 
 If you don't know git and don't have an intrinsic urge to learn it right now download this repo as a zip-archive. Unpack it and let's get coding. Whenever there is a new challenge that you'd like to do download the files. Put them in the correct directory and have fun coding :) 
-Instructions for running the tests can [here](python/exercises/instructions.md)
+Instructions for running the tests can be found [here](https://github.com/DimitriFankhauser/Advent_Of_Dimitri/blob/master/python/instructions.md)
 

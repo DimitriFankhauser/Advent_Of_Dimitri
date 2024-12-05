@@ -18,8 +18,33 @@ func removeHans(victims []string) []string {
 	}
 	return remainingVictims
 }
+
+// the param victims is a pointer, that points to a slice of strings (the var pointervictims)
+func removeHansWithPointers(victims *[]string) {
+	// no return-type because we are using reference params!
+	// originalvictims has the value of the slice pointervictims
+	originalVictims := *victims
+	//create a slice with len0, since it's empty
+	remainingVictims := make([]string, 0)
+
+	for i := 0; i < len(originalVictims); i++ {
+		if originalVictims[i] != "Hans" {
+			//reassign remainingVictims with the current len, which is equal to i
+			remainingVictims = append(remainingVictims, originalVictims[i])
+		}
+	}
+
+	// Update the slice that the pointer is pointing to
+	*victims = remainingVictims
+}
+
 func main() {
 	victims := []string{"Julia", "Lenny", "Hans"}
 	remainingVictims := removeHans(victims)
+
+	pointerVictims := []string{"Julia", "Lenny", "Hans"}
+	victimspointer := &pointerVictims
+	removeHansWithPointers(victimspointer)
+	fmt.Println(pointerVictims)
 	fmt.Println(remainingVictims)
 }
