@@ -20,5 +20,14 @@ The solutions will be created in Golang, because that is the language I want to 
 
 As mentioned before, this is for people who have exams to pass or who would like some brainfood. 
 If you don't know git and don't have an intrinsic urge to learn it right now download this repo as a zip-archive. Unpack it and let's get coding. Whenever there is a new challenge that you'd like to do download the files. Put them in the correct directory and have fun coding :) 
-Instructions for running the tests can be found [here](https://github.com/DimitriFankhauser/Advent_Of_Dimitri/blob/master/python/instructions.md)
+Instructions for running the tests can be found [here](https://github.com/DimitriFankhauser/Advent_Of_Dimitri/blob/master/python/instructions.md). 
+
+**An important thing to remember:** You are here to have fun. Some challenges are harder than others. 
+I try to make them increasingly difficult, but if you can't solve a challenge, it's perfectly fine to skip it and do it on another day or to have a look at my [solutions in Go](https://github.com/DimitriFankhauser/Advent_Of_Dimitri/tree/master/Golang). 
+In such a case I advise you to go try your hands on a subsequent challenge.  
+
+## I think I found a mistake. What do I do?
+If you find a mistake in the challenge feel free to [raise a github issue](https://github.com/DimitriFankhauser/Advent_Of_Dimitri/issues). If you need help otherwise contact me through [adventofdimitri@gmail.com](mailto:adventofdimitri@gmail.com)
+
+
 
