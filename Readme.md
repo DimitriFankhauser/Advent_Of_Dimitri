@@ -30,4 +30,43 @@ In such a case I advise you to go try your hands on a subsequent challenge.
 If you find a mistake in the challenge feel free to [raise a github issue](https://github.com/DimitriFankhauser/Advent_Of_Dimitri/issues). If you need help otherwise contact me through [adventofdimitri@gmail.com](mailto:adventofdimitri@gmail.com)
 
 
+## Overview of the topics covered:
+### confidence tests
+- [exercise0](exercises/exercise0/ex0.py)
+- [exercise01](exercises/exercise01/ex01.py)
+
+## parameters
+- [exercise02](exercises/exercise02/ex02.py)
+
+### Loops & Data Structures 
+- [exercise03](exercises/exercise03/ex03.py)
+- [exercise04](exercises/exercise04/ex04.py)
+- [exercise05](exercises/exercise05/ex05.py)
+- [exercise18](exercises/exercise18/ex18.py)
+
+### Files
+- [exercise06](exercises/exercise06/ex06.py)
+- [exercise07](exercises/exercise07/ex07.py)
+- [exercise08](exercises/exercise08/ex08.py)
+
+### Dates
+- [exercise09](exercises/exercise09/ex09.py)
+- [exercise17](exercises/exercise17/ex17.py)
+
+### Debugging & Testing
+- [exercise10](exercises/exercise10/ex10.py)
+- [exercise16](exercises/exercise16/ex16.py)
+
+### Classes 
+- [exercise11](exercises/exercise11/ex11.py)
+- [exercise13](exercises/exercise13/ex13.py)
+- [exercise14](exercises/exercise14/ex14.py)
+- [exercise19](exercises/exercise19/ex19.py)
+
+### Error Handling
+- [exercise12](exercises/exercise12/ex12.py)
+
+### Recursion
+- [exercise15](exercises/exercise15/ex15.py)
+
 
