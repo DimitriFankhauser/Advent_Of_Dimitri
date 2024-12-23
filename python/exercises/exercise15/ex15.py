@@ -14,8 +14,9 @@
 nums=[4,122,6,8,2,13,2]
 
 def findPrimeNumber(nums) ->int:
-    if:
-        # TODO: add exit-conditions
+    #TODO: Define an exit-condition
+    if True:
+        raise NotImplementedError
     else:
         return findPrimeNumber(nums[1:])
 
