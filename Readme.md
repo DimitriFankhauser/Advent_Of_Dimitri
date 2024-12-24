@@ -35,7 +35,7 @@ If you find a mistake in the challenge feel free to [raise a github issue](https
 - [exercise0](exercises/exercise0/ex0.py)
 - [exercise01](exercises/exercise01/ex01.py)
 
-## parameters
+### Parameters
 - [exercise02](exercises/exercise02/ex02.py)
 
 ### Loops & Data Structures 
@@ -43,7 +43,10 @@ If you find a mistake in the challenge feel free to [raise a github issue](https
 - [exercise04](exercises/exercise04/ex04.py)
 - [exercise05](exercises/exercise05/ex05.py)
 - [exercise18](exercises/exercise18/ex18.py)
-
+- [exercise20](exercises/exercise20/ex20.py)
+- [exercise21](exercises/exercise21/ex21.py)
+- [exercise22](exercises/exercise22/ex22.py)
+- [exercise23](exercises/exercise23/ex23.py)
 ### Files
 - [exercise06](exercises/exercise06/ex06.py)
 - [exercise07](exercises/exercise07/ex07.py)
@@ -62,7 +65,7 @@ If you find a mistake in the challenge feel free to [raise a github issue](https
 - [exercise13](exercises/exercise13/ex13.py)
 - [exercise14](exercises/exercise14/ex14.py)
 - [exercise19](exercises/exercise19/ex19.py)
-
+- [exercise24](exercises/exercise24/ex24.py)
 ### Error Handling
 - [exercise12](exercises/exercise12/ex12.py)
 
