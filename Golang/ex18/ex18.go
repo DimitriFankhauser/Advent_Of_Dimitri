@@ -29,7 +29,7 @@ func main() {
 	m = make(map[int]string)
 
 	for i := 0; i < len(elves); i++ {
-		//generate a random index based on the length of numbers
+		//generate a random index within the range of "numbers"
 		index := rand.IntN(len(numbers))
 		num := numbers[index]
 		if m[num] == "" {
